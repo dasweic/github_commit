@@ -5,6 +5,7 @@ git config --global user.name "github account name"
 git config --global user.email "mail@gmail.com"
 git config --list
 
+2.1.  clone repo in github.
 
 3  add or change file in cloned repo in vs code
 
