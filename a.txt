@@ -1,0 +1,18 @@
+1  install git in ur os.
+2  set environment in vscode terminal
+
+git config --global user.name "github account name"
+git config --global user.email "mail@gmail.com"
+git config --list
+
+
+3  add or change file in cloned repo in vs code
+
+git add .
+git commit -m "some message"
+
+
+
+4  push this code on your github.
+
+git push origin main
